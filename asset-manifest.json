@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/bhive-workspace/static/css/main.f65b04f4.css",
-    "main.js": "/bhive-workspace/static/js/main.6af37a0c.js",
+    "main.js": "/bhive-workspace/static/js/main.ffb2d706.js",
     "static/js/453.94d183cf.chunk.js": "/bhive-workspace/static/js/453.94d183cf.chunk.js",
+    "static/media/bhive-logo.png": "/bhive-workspace/static/media/bhive-logo.cd077dd3ae5a5e836841.png",
     "index.html": "/bhive-workspace/index.html",
     "main.f65b04f4.css.map": "/bhive-workspace/static/css/main.f65b04f4.css.map",
-    "main.6af37a0c.js.map": "/bhive-workspace/static/js/main.6af37a0c.js.map",
+    "main.ffb2d706.js.map": "/bhive-workspace/static/js/main.ffb2d706.js.map",
     "453.94d183cf.chunk.js.map": "/bhive-workspace/static/js/453.94d183cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f65b04f4.css",
-    "static/js/main.6af37a0c.js"
+    "static/js/main.ffb2d706.js"
   ]
 }
