@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/bhive-workspace/static/css/main.f65b04f4.css",
-    "main.js": "/bhive-workspace/static/js/main.ffb2d706.js",
-    "static/js/453.94d183cf.chunk.js": "/bhive-workspace/static/js/453.94d183cf.chunk.js",
-    "static/media/bhive-logo.png": "/bhive-workspace/static/media/bhive-logo.cd077dd3ae5a5e836841.png",
-    "index.html": "/bhive-workspace/index.html",
-    "main.f65b04f4.css.map": "/bhive-workspace/static/css/main.f65b04f4.css.map",
-    "main.ffb2d706.js.map": "/bhive-workspace/static/js/main.ffb2d706.js.map",
-    "453.94d183cf.chunk.js.map": "/bhive-workspace/static/js/453.94d183cf.chunk.js.map"
+    "main.css": "/akaushik860/bhive-workspace/static/css/main.f65b04f4.css",
+    "main.js": "/akaushik860/bhive-workspace/static/js/main.af13a3ad.js",
+    "static/js/453.94d183cf.chunk.js": "/akaushik860/bhive-workspace/static/js/453.94d183cf.chunk.js",
+    "static/media/poster1.png": "/akaushik860/bhive-workspace/static/media/poster1.0b6f2213b382b496e097.png",
+    "static/media/bhiveBG.png": "/akaushik860/bhive-workspace/static/media/bhiveBG.3ea0bc50f0c34e5fddc2.png",
+    "static/media/download-poster.png": "/akaushik860/bhive-workspace/static/media/download-poster.0e2f250c8cf669e5a0d0.png",
+    "static/media/workspace.png": "/akaushik860/bhive-workspace/static/media/workspace.45001bdec5311a027bcf.png",
+    "static/media/arrow2.png": "/akaushik860/bhive-workspace/static/media/arrow2.56ec2b00a35354fdbd19.png",
+    "static/media/yellowEffect.png": "/akaushik860/bhive-workspace/static/media/yellowEffect.3f9e932e376168145fe0.png",
+    "static/media/arrows.png": "/akaushik860/bhive-workspace/static/media/arrows.de13b2920bfab43b931c.png",
+    "static/media/bhive-logo.png": "/akaushik860/bhive-workspace/static/media/bhive-logo.cd077dd3ae5a5e836841.png",
+    "index.html": "/akaushik860/bhive-workspace/index.html",
+    "main.f65b04f4.css.map": "/akaushik860/bhive-workspace/static/css/main.f65b04f4.css.map",
+    "main.af13a3ad.js.map": "/akaushik860/bhive-workspace/static/js/main.af13a3ad.js.map",
+    "453.94d183cf.chunk.js.map": "/akaushik860/bhive-workspace/static/js/453.94d183cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f65b04f4.css",
-    "static/js/main.ffb2d706.js"
+    "static/js/main.af13a3ad.js"
   ]
 }
